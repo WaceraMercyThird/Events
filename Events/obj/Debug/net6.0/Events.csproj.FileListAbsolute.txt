@@ -1,0 +1,15 @@
+/Users/jpmac/RiderProjects/Events/Events/bin/Debug/net6.0/Events
+/Users/jpmac/RiderProjects/Events/Events/bin/Debug/net6.0/Events.deps.json
+/Users/jpmac/RiderProjects/Events/Events/bin/Debug/net6.0/Events.runtimeconfig.json
+/Users/jpmac/RiderProjects/Events/Events/bin/Debug/net6.0/Events.dll
+/Users/jpmac/RiderProjects/Events/Events/bin/Debug/net6.0/Events.pdb
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.csproj.AssemblyReference.cache
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.AssemblyInfoInputs.cache
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.AssemblyInfo.cs
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.csproj.CoreCompileInputs.cache
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.dll
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/refint/Events.dll
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.pdb
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/Events.genruntimeconfig.cache
+/Users/jpmac/RiderProjects/Events/Events/obj/Debug/net6.0/ref/Events.dll
